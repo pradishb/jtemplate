@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="765"
+   height="990"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (d244b95, 2018-08-02)"
+   sodipodi:docname="invoice.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3689">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5286885;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
+         id="rect3691"
+         width="591.9494"
+         height="783.87836"
+         x="825.29462"
+         y="153.32642" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-87.474633"
+     inkscape:cy="386.63696"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:0"
+       id="rect918"
+       width="765"
+       height="990"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="Content"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-803,-62.362183)">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#8495a2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
+       d="m 803,62.362235 h 765 V 191.86224 H 803 Z"
+       id="path4412"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.63199997px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+       x="835.26184"
+       y="141.29276"
+       id="text4416"><tspan
+         x="835.26184"
+         y="141.29276"
+         sodipodi:role="line"
+         id="tspan9"
+         style="-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">INVOICE
+</tspan></text>
+    <text
+       id="text4460"
+       y="225.64278"
+       x="838.69006"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         x="838.69006"
+         y="225.64278"
+         sodipodi:role="line"
+         id="tspan26"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Billed To</tspan><tspan
+         x="838.69006"
+         y="253.64278"
+         sodipodi:role="line"
+         id="tspan30"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif">{{customer.name}}</tspan><tspan
+         x="838.69006"
+         y="281.64276"
+         sodipodi:role="line"
+         id="tspan32"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif">{{customer.street}}</tspan><tspan
+         x="838.69006"
+         y="309.64276"
+         sodipodi:role="line"
+         id="tspan34"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif">{{customer.city}}, {{customer.state}}, {{customer.zip}}</tspan></text>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#8495a2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
+       d="m 839,336.26068 h 693 v 1 H 839 Z"
+       id="path4573"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1"
+       x="837.90332"
+       y="371.04126"
+       id="text4585"><tspan
+         x="837.90332"
+         y="371.04126"
+         sodipodi:role="line"
+         id="tspan54">Description
+</tspan></text>
+    <text
+       id="text4610"
+       y="371.04126"
+       x="1370.8749"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         x="1370.8749"
+         y="371.04126"
+         sodipodi:role="line"
+         id="tspan63">Amount</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4587"
+       d="m 839,398.15848 h 515 v 24.68808 H 839 Z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.33793783;marker:none;enable-background:accumulate" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.2558794;marker:none;enable-background:accumulate"
+       d="m 1370.9999,398.15848 h 160.9999 v 24.68808 h -160.9999 z"
+       id="path4612"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.33793783;marker:none;enable-background:accumulate"
+       d="m 839,447.65128 h 515 v 24.68808 H 839 Z"
+       id="path4666"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4668"
+       d="m 1370.9999,447.65128 h 160.9999 v 24.68808 h -160.9999 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.2558794;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4690"
+       d="m 839,893.08604 h 693 v 1 H 839 Z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#8495a2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4787"
+       d="m 839,497.14407 h 515 v 24.68808 H 839 Z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.33793783;marker:none;enable-background:accumulate" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.2558794;marker:none;enable-background:accumulate"
+       d="m 1370.9999,497.14407 h 160.9999 v 24.68808 h -160.9999 z"
+       id="path4789"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.33793783;marker:none;enable-background:accumulate"
+       d="m 839,546.63684 h 515 v 24.68808 H 839 Z"
+       id="path4813"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4815"
+       d="m 1370.9999,546.63684 h 160.9999 v 24.68808 h -160.9999 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.2558794;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4839"
+       d="m 839,596.12958 h 515 v 24.68808 H 839 Z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.33793783;marker:none;enable-background:accumulate" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.2558794;marker:none;enable-background:accumulate"
+       d="m 1370.9999,596.12958 h 160.9999 v 24.68808 h -160.9999 z"
+       id="path4841"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.33793783;marker:none;enable-background:accumulate"
+       d="m 839,645.62231 h 515 v 24.68808 H 839 Z"
+       id="path4865"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4867"
+       d="m 1370.9999,645.62231 h 160.9999 v 24.68808 h -160.9999 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.2558794;marker:none;enable-background:accumulate" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.33793783;marker:none;enable-background:accumulate"
+       d="m 839,695.11505 h 515 v 24.68808 H 839 Z"
+       id="path4891"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4893"
+       d="m 1370.9999,695.11505 h 160.9999 v 24.68808 h -160.9999 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.2558794;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4917"
+       d="m 839,744.60779 h 515 v 24.68808 H 839 Z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.33793783;marker:none;enable-background:accumulate" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.2558794;marker:none;enable-background:accumulate"
+       d="m 1370.9999,744.60779 h 160.9999 v 24.68808 h -160.9999 z"
+       id="path4919"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4943"
+       d="m 839,794.10054 h 515 v 24.68808 H 839 Z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.33793783;marker:none;enable-background:accumulate" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.2558794;marker:none;enable-background:accumulate"
+       d="m 1370.9999,794.10054 h 160.9999 v 24.68808 h -160.9999 z"
+       id="path4945"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.33793783;marker:none;enable-background:accumulate"
+       d="m 839,843.59329 h 515 v 24.68808 H 839 Z"
+       id="path4969"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4971"
+       d="m 1370.9999,843.59329 h 160.9999 v 24.68808 h -160.9999 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.2558794;marker:none;enable-background:accumulate" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot917"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Oswald;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Oswald;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion919"><rect
+           id="rect921"
+           width="172.53406"
+           height="57.982758"
+           x="444.06305"
+           y="847.16443" /></flowRegion><flowPara
+         id="flowPara923" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="848.25482"
+       y="403.23816"
+       id="text915"><tspan
+         sodipodi:role="line"
+         id="tspan913"
+         x="848.25482"
+         y="440.4379" /></text>
+    <text
+       id="text919"
+       y="414.88187"
+       x="847.90332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:3.0999999;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         y="414.88187"
+         x="847.90332"
+         id="tspan943"
+         style="line-height:3.0999999">{{#items}}</tspan><tspan
+         sodipodi:role="line"
+         y="464.48187"
+         x="847.90332"
+         style="line-height:3.0999999"
+         id="tspan1535">{{description}}</tspan><tspan
+         sodipodi:role="line"
+         y="514.08185"
+         x="847.90332"
+         style="line-height:3.0999999"
+         id="tspan1003">{{/items}}</tspan></text>
+    <text
+       id="text4501"
+       y="225.64278"
+       x="1541.5909"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         x="1541.5909"
+         y="225.64278"
+         sodipodi:role="line"
+         id="tspan47"
+         style="font-size:16px;text-align:end;text-anchor:end;font-weight:bold">Invoice Total (USD)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.92266846px;line-height:1.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#8495a2;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       x="1545.5945"
+       y="273.90833"
+       id="text4507"><tspan
+         x="1545.5945"
+         y="273.90833"
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:end;text-anchor:end"
+         id="tspan912"><tspan
+           id="tspan914"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end">${{invoice.total}}</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:3.0999999;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1"
+       x="1381.9033"
+       y="414.88187"
+       id="text1565"><tspan
+         style="line-height:3.0999999"
+         id="tspan1559"
+         x="1381.9033"
+         y="414.88187"
+         sodipodi:role="line">{{#items}}</tspan><tspan
+         id="tspan1561"
+         style="line-height:3.0999999"
+         x="1381.9033"
+         y="464.48187"
+         sodipodi:role="line">{{amount}}</tspan><tspan
+         id="tspan1563"
+         style="line-height:3.0999999"
+         x="1381.9033"
+         y="514.08185"
+         sodipodi:role="line">{{/items}}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1"
+       x="838.69006"
+       y="927.7951"
+       id="text4694"><tspan
+         x="838.69006"
+         y="927.7951"
+         sodipodi:role="line"
+         id="tspan99"
+         style="font-size:16px;font-weight:bold">Total</tspan><tspan
+         x="838.69006"
+         y="955.7951"
+         sodipodi:role="line"
+         id="tspan101"
+         style="font-size:16px">{{invoice.total}}</tspan></text>
+    <text
+       id="text4702"
+       y="927.7951"
+       x="1052.0029"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         x="1052.0029"
+         y="927.7951"
+         sodipodi:role="line"
+         id="tspan104"
+         style="font-weight:bold">Status</tspan><tspan
+         x="1052.0029"
+         y="955.7951"
+         sodipodi:role="line"
+         id="tspan106">{{invoice.status}}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1"
+       x="1265.9019"
+       y="927.7951"
+       id="text4708"><tspan
+         x="1265.9019"
+         y="927.7951"
+         sodipodi:role="line"
+         id="tspan109"
+         style="font-size:16px;font-weight:bold">Method of Payment</tspan><tspan
+         x="1265.9019"
+         y="955.7951"
+         sodipodi:role="line"
+         id="tspan111"
+         style="font-size:16px">{{invoice.payment_method}}</tspan></text>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#8495a2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
+       d="m 839,975.83212 h 693 v 1 H 839 Z"
+       id="path5135"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

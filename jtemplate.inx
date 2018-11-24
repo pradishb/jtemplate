@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+  <_name>Jtemplate</_name>
+  <id>org.inkscape.effect.jtemplate</id>
+  <dependency type="executable" location="extensions">jtemplate.py</dependency>
+  <param name="json" type="string" gui-text="Path to json file"></param>
+  <effect>
+    <object-type>all</object-type>
+    <effects-menu>
+      <submenu _name="Misc"/>
+    </effects-menu>
+  </effect>
+	<script>
+		<command reldir="extensions" interpreter="python">jtemplate.py</command>
+</script>
+</inkscape-extension> 

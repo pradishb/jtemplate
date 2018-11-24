@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "description": "Logo Design Service",
+      "amount": 300
+    },
+    {
+      "description": "Business Card Design",
+      "amount": 200
+    },
+    {
+      "description": "Website Design",
+      "amount": 500
+    },
+    {
+      "description": "Mobile App Development",
+      "amount": 500
+    },
+    {
+      "description": "Template Design",
+      "amount": 100
+    },
+    {
+      "description": "Maintainance Charge",
+      "amount": 200
+    },
+    {
+      "description": "Flyer Design",
+      "amount": 100
+    },
+    {
+      "description": "Poster Design",
+      "amount": 100
+    },
+    {
+      "description": "Pomplate Design",
+      "amount": 100
+    },
+    {
+      "description": "Letterhead Design",
+      "amount": 100
+    }
+  ],
+  "customer": {
+    "name": "Pradish Bijukchhe",
+    "street": "Bhairab Tole",
+    "city": "Pokhara",
+    "zip": 33700,
+    "state": "Kaski"
+  },
+  "invoice": {
+    "id": 135,
+    "date": "08/01/2018",
+    "total": 2200,
+    "tax": 0,
+    "status": "Paid",
+    "payment_method": "Paypal"
+  }
+}
