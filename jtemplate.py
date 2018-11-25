@@ -10,6 +10,7 @@ import string
 import json
 import re
 import copy
+from lxml.etree import tostring, dump, fromstring
 sys.path.append('/usr/share/inkscape/extensions')
 
 # We will use the inkex module with the predefined Effect base class.
@@ -31,70 +32,16 @@ class JTemplateEffect(inkex.Effect):
 
         svg = self.document.getroot()
 
-        # FOR SECTIONS
         textElements = svg.xpath(
             '//svg:text', namespaces=inkex.NSS)
 
         for e in textElements:
-            old_text = string.join(e.xpath(".//text()"), "\n")
-            match = re.match(r'{{#([^}}]*)}}[\S\s]*{{\/\1}}', old_text)
-            if match != None:
-                style = e.get('style')
-                line_height = inkex.unittouu(parseStyle(style)["line-height"])
-                font_size = inkex.unittouu(parseStyle(style)["font-size"])
-                font_spacing = font_size * line_height
-                x = e.get('x')
-                y = inkex.unittouu(e.get('y'))
-                for tspan in e.getchildren():
-                    e.remove(tspan)
-
-                new_text = pystache.render(old_text, json_data)
-
-                lines = new_text.split("\n")
-
-                for line in lines:
-                    tspan = inkex.etree.Element(inkex.addNS('tspan', 'svg'), attrib={
-                        inkex.addNS('role', 'sodipodi'): 'line',
-                        'x': x,
-                        'y': str(y)})
-                    tspan.text = line + "\n"
-                    e.append(tspan)
-                    y += font_spacing
-
-        # FOR NORMAL VARIABLES
-        textElements = svg.xpath(
-            '//svg:text//text()', namespaces=inkex.NSS)
-
-        for e in textElements:
-            old_text = e.getparent().text
-            mustache_section = re.match('{{[#/][^}}]*}}', old_text)
-            if mustache_section == None:
-                new_text = pystache.render(old_text, json_data)
-                e.getparent().text = new_text
-
-        # flowElements = svg.xpath(
-        #     '//svg:flowPara/text()', namespaces=inkex.NSS)
-
-        # for e in flowElements:
-        #     parent = e.getparent()
-        #     old_text = parent.text
-        #     mustache_section = re.match('{{#[^}}]*}}.*{{\/[^}}]*}}', old_text)
-
-        #     if mustache_section != None:
-        #         root_element = parent.getparent()
-        #         # e.getparent().getparent().remove(e.getparent())
-
-        #         old_text = old_text.replace("{{ln}}", "\n")
-        #         new_text = pystache.render(old_text, json_data)
-
-        #         lines = new_text.split("\n")
-
-        #         for line in lines:
-        #             para_temp = copy.deepcopy(parent)
-        #             para_temp.text = line
-        #             root_element.insert(
-        #                 root_element.index(parent), para_temp)
-        #         root_element.remove(parent)
+            e_text = tostring(e)
+            e_text = re.sub(r'<tspan [^>]*>({{[#/][^}}]*}})<\/tspan>',
+                            r'\1', e_text)
+            new_text = pystache.render(e_text, json_data)
+            elem = fromstring(new_text)
+            e.getparent().replace(e, elem)
 
 
 effect = JTemplateEffect()
